@@ -15,4 +15,6 @@ To run this project, install :
 5- numpy library
 6- pandas library
 
-
+<div align="center">
+    <img src="dashboard.jpeg" width="400px"</img> 
+</div>
