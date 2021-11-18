@@ -4,8 +4,8 @@ It's a dashboard that shows the detailed information about each book in the top 
 ### 1-General info
 ### 2-Setup
 ## General info
-In this project,we implement a dashboard that shows the detailed information about each book in the top 50 best selling books on amazon over the last ten years. 
-when the user clicks on a book in the graph , all the information about it appear.
+In this project,we implemented a dashboard that shows the detailed information about each book in the top 50 best selling books on amazon over the last ten years. 
+when the user clicks on a book in the graph , all the information about it appears.
 ## Setup
 To run this project, install :
 1- dash library
